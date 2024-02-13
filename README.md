@@ -34,7 +34,7 @@ src="https://img.shields.io/twitter/follow/Himi Mohamed?logo=twitter&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mohimi-coder"><img src="https://github-readme-stats.vercel.app/api?username=Mhimi1337&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="mohimi-coder's GitHub stats" /></a>
+<a href="http://www.github.com/mohimi-coder"><img src="https://github-readme-stats.vercel.app/api?username=mohimi-coder&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="mohimi-coder's GitHub stats" /></a>
 
 <a href="http://www.github.com/mohimi-coder"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohimi-coder&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 

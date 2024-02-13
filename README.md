@@ -15,8 +15,8 @@ i'm a student in 1337 coding school, 42 The Network
 * 🤝  I'm open to collaborating on c programming language, or python!
 * ⚡  i'm secretly Superman... but don't tell anyone!
 
-<a href="https://www.github.com/Mhimi1337" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Mhimi1337?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/Himi Mohamed" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/mohimi-coder" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mohimi-coder?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/Himi Mohamed" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Himi Mohamed?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 

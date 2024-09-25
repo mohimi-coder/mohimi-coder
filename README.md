@@ -8,9 +8,8 @@ i'm a student in 1337 coding school, 42 The Network
 
 * I love code!
 * 🌍  I'm based in Ouarzazate city, Morroco
-* 🖥️  See my portfolio at [https://badge.mediaplus.ma/binary/mohimi](http://profile.intra.42.fr/)
 * ✉️  You can contact me at [mohimi1337@gmail.com](mailto:mohimi1337@gmail.com)
-* 🚀  I'm currently working on [learning programming languages](http://profile.intra.42.fr/)
+* 🚀  I'm currently working on [learning programming languages]
 * 🧠  I'm learning c programming language and other languages!
 * 🤝  I'm open to collaborating on c programming language, or python!
 * ⚡  i'm secretly Superman... but don't tell anyone!

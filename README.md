@@ -9,6 +9,7 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mohimi" alt="mohimi's 42 stats" /></a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2373B7F7&center=true&vCenter=true&lines=Have+a+nice+day)](https://git.io/typing-svg)
 
 * I love code!

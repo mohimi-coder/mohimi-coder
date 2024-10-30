@@ -7,7 +7,7 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%4373B7FF&center=true&vCenter=true&lines=I+love+coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%4373B7FF&center=true&vCenter=true&lines=I+love+coding+💻)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 

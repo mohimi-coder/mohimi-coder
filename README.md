@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&text=Hi,%20I'm%20Mohamed Himi.%20Welcome.&fontSize=24&fontAlignY=32&animation=twinkling" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&text=Hi,%20I'm%20Mohamed.%20Welcome.&fontSize=24&fontAlignY=32&animation=twinkling" alt="header" width="100%" />
 
 
 <samp>i'm a student in 1337 coding school, 42 The Network<br>

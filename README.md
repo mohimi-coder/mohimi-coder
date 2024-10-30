@@ -16,6 +16,8 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mohimi" alt="mohimi's 42 stats" /></a>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
+
 
 * I love code!
 * 🌍  I'm based in Ouarzazate city, Morroco
@@ -24,6 +26,8 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 * 🧠  I'm learning c programming language and other languages!
 * 🤝  I'm open to collaborating on c programming language, or python!
 * ⚡  i'm secretly Superman... but don't tell anyone!
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
 
 <a href="https://www.github.com/mohimi-coder" target="_blank" rel="noreferrer"><img

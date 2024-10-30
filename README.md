@@ -57,6 +57,10 @@ src="https://img.shields.io/twitter/follow/Himi Mohamed?logo=twitter&style=for-t
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2373B7F7&center=true&vCenter=true&lines=Have+a+nice+day)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
+
 ## :artist: Current Design Skills
 
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,webflow,ae,wordpress)](https://skillicons.dev)

@@ -3,6 +3,8 @@
 i'm a student in 1337 coding school, 42 The Network<br>
 You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/mohamed-himi1/"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width="35" /></a>.<br><br>
  </samp>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2373B7F7&center=true&vCenter=true&lines=Have+a+nice+day)](https://git.io/typing-svg)
 
 
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
@@ -10,7 +12,6 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mohimi" alt="mohimi's 42 stats" /></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2373B7F7&center=true&vCenter=true&lines=Have+a+nice+day)](https://git.io/typing-svg)
 
 * I love code!
 * 🌍  I'm based in Ouarzazate city, Morroco

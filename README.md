@@ -18,6 +18,8 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 * 🤝  I'm open to collaborating on c programming language, or python!
 * ⚡  i'm secretly Superman... but don't tell anyone!
 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2373B7F7&center=true&vCenter=true&lines=Have+a+nice+day)](https://git.io/typing-svg)
+
 <a href="https://www.github.com/mohimi-coder" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mohimi-coder?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/Himi Mohamed" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Himi Mohamed?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"

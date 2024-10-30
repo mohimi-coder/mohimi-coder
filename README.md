@@ -4,7 +4,6 @@ i'm a student in 1337 coding school, 42 The Network<br>
 You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/mohamed-himi1/"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width="35" /></a>.<br><br>
  </samp>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2373B7F7&center=true&vCenter=true&lines=Have+a+nice+day)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 

@@ -32,15 +32,10 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
-
 
 <b>My GitHub Stats</b>
 
@@ -60,18 +55,23 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 <img src="https://komarev.com/ghpvc/?username=mohimi-coder&label=Visitors+Count&color=brightgreen">
 </p>
 
-
 ![](https://raw.githubusercontent.com/mohimi-code/mohimi-code/output/github-contribution-grid-snake.svg)
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohimi-coder&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mohimi-coder&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2373B7F7&center=true&vCenter=true&lines=Have+a+nice+day+🤗)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
-<br>
 
-![snake gif](https://github.com/mohimi-coder/mohimi-coder/blob/output/github-snake-dark.svg)
 > :desktop_computer:  Design Tools - Figma | Adobe XD | Canva | Sketch | InVision | Balsamiq | Marvel | Proto
 
 > 🛌 Digital Suites - Adobe Suite | Microsoft Office | Google Suite

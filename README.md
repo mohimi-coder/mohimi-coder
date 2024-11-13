@@ -70,6 +70,8 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 <br>
+
+![snake gif](https://github.com/mohimi-coder/mohimi-coder/blob/output/github-snake-dark.svg)
 > :desktop_computer:  Design Tools - Figma | Adobe XD | Canva | Sketch | InVision | Balsamiq | Marvel | Proto
 
 > 🛌 Digital Suites - Adobe Suite | Microsoft Office | Google Suite

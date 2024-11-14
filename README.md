@@ -55,8 +55,6 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 <img src="https://komarev.com/ghpvc/?username=mohimi-coder&label=Visitors+Count&color=brightgreen">
 </p>
 
-![](https://raw.githubusercontent.com/mohimi-code/mohimi-code/output/github-contribution-grid-snake.svg)
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 <br>
 

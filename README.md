@@ -68,6 +68,10 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
+![snake gif](https://github.com/mohimi-coder/mohimi-coder/blob/output/github-snake-dark.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2373B7F7&center=true&vCenter=true&lines=Have+a+nice+day+🤗)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
